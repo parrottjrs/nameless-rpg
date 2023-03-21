@@ -1,2 +1,3 @@
 # nameless-rpg
-an RPG built with html canvas
+
+a small game built with html canvas
