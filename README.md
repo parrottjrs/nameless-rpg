@@ -1,6 +1,6 @@
 # nameless-rpg
 
-parrottjrs.github.io/nameless-rpg/
+https://parrottjrs.github.io/nameless-rpg/
 
 This is a WIP that is going to be put together in my spare time, based on a tutorial by Chris Courses on Youtube.  
 
